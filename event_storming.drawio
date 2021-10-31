@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2021-10-31T16:57:07.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="RBpQZXX8PFdWEBra9_d3" version="15.6.3" type="github">
+  <diagram id="DCq4Pw86mnB3wLZqKzuI" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-1" value="1.&amp;nbsp;Авторизация в таск-трекере должна выполняться через общий сервис авторизации UberPopug Inc" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-2" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-3" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;User&lt;br style=&quot;font-size: 14px&quot;&gt;Login to app&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;Auth data&lt;br style=&quot;font-size: 14px&quot;&gt;User.Logined&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-4" value="2. Новые таски может создавать кто угодно. У задачи должны быть описание, статус и попуг, на которого заассайнена задача." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-5" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-6" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;User&lt;br style=&quot;font-size: 14px&quot;&gt;Create task&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;Task&lt;br style=&quot;font-size: 14px&quot;&gt;Task.Created&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-7" value="3.&amp;nbsp;Менеджеры или администраторы должны иметь кнопку «заассайнить задачи», которая возьмёт все открытые задачи и рандомно заассайнит каждую на любого из сотрудников" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-8" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="313" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-9" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;User with manager role&lt;br style=&quot;font-size: 14px&quot;&gt;Assign tasks&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;User ID&lt;br style=&quot;font-size: 14px&quot;&gt;Task.Assigned (для каждой задачи)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="313" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-10" value="4.&amp;nbsp;Каждый сотрудник должен иметь возможность видеть в отдельном месте список заассайненных на него задач + отметить задачу выполненной." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-11" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="313" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-12" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;User&lt;br style=&quot;font-size: 14px&quot;&gt;Complete task&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;Task ID + user ID&lt;br style=&quot;font-size: 14px&quot;&gt;Task.Completed&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="313" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-13" value="5. Деньги списываются сразу после ассайна на сотрудника" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-14" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-15" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;&quot;Task.Assigned&quot; event&lt;br style=&quot;font-size: 14px&quot;&gt;Charge money from an account&lt;br style=&quot;font-size: 14px&quot;&gt;Task + task fee&lt;br style=&quot;font-size: 14px&quot;&gt;Account.MoneyCharged&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="520" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-16" value="6. Деньги&amp;nbsp;начисляются после выполнения задачи" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-17" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-18" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;&quot;Task.Completed&quot; event&lt;br style=&quot;font-size: 14px&quot;&gt;Add money to an account&lt;br style=&quot;font-size: 14px&quot;&gt;Task + task amount&lt;br style=&quot;font-size: 14px&quot;&gt;Account.MoneyAdded&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-19" value="7.&amp;nbsp;У счёта должен быть аудитлог того, за что были списаны деньги" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-20" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-21" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;&quot;Account.MoneyCharged&quot; event&lt;br style=&quot;font-size: 14px&quot;&gt;Create audit log record&lt;br style=&quot;font-size: 14px&quot;&gt;Task + task fee&lt;br style=&quot;font-size: 14px&quot;&gt;AuditLogRecord.Created&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="720" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-22" value="8.&amp;nbsp;У счёта должен быть аудитлог того, за что были начислены деньги" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-23" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="720" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-24" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;&quot;Account.MoneyAdded&quot; event&lt;br style=&quot;font-size: 14px&quot;&gt;Create audit log record&lt;br style=&quot;font-size: 14px&quot;&gt;Task + task amount&lt;br style=&quot;font-size: 14px&quot;&gt;AuditLogRecord.Created&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="720" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-25" value="9.&amp;nbsp;После выплаты баланса (в конце дня) он должен обнуляться" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="870" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-26" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="930" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-27" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Scheduler&lt;br style=&quot;font-size: 14px&quot;&gt;Pay off balance&lt;br style=&quot;font-size: 14px&quot;&gt;Account&lt;br style=&quot;font-size: 14px&quot;&gt;Account.BalancePaidOff&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="930" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-28" value="10. В аудитлоге всех операций аккаунтинга должно быть отображено, что была выплачена сумма" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="870" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-29" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="930" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2OpHM_3p4UmlL2ZxXayD-30" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;&quot;Account.BalancePaidOff&quot; event&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;Create audit log record&lt;br style=&quot;font-size: 14px&quot;&gt;Account&lt;br style=&quot;font-size: 14px&quot;&gt;AuditLogRecord.Created&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="930" width="250" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
