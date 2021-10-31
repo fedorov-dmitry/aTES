@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T13:01:43.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="sd3j5YoD2P1e-RQ7LPHK" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T14:19:08.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="fFt6p2d8W2PUyfJt6j_k" version="15.6.2" type="github">
   <diagram id="d5NoFp7wLWWfBtsMQgxX" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="VC6x2Bo0zWcs_63LQxLv-3" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;Actor:&lt;br style=&quot;font-size: 14px&quot;&gt;Command:&lt;br style=&quot;font-size: 14px&quot;&gt;Data:&lt;br style=&quot;font-size: 14px&quot;&gt;Event:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="80" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VC6x2Bo0zWcs_63LQxLv-4" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;User&lt;br style=&quot;font-size: 14px&quot;&gt;Login to app&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;Beak photo&lt;br style=&quot;font-size: 14px&quot;&gt;User.Logined&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="VC6x2Bo0zWcs_63LQxLv-4" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;User&lt;br style=&quot;font-size: 14px&quot;&gt;Login to app&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;Auth data&lt;br style=&quot;font-size: 14px&quot;&gt;User.Logined&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="130" y="100" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="1XSmwFj-NehxppMxqpuk-1" value="2. Новые таски может создавать кто угодно. У задачи должны быть описание, статус и попуг, на которого заассайнена задача." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;spacing=2;spacingBottom=0;labelPosition=center;verticalLabelPosition=middle;fontSize=14;spacingTop=0;" vertex="1" parent="1">
